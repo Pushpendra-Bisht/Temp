@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
-
+# queue program
 #define SIZE 5
 int cqueue[SIZE];
 int front = -1;
